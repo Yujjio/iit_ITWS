@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+	<title>w3School Tutorial</title>
+	<description>Some tutorials posted in the w3Scool which would be convenient for me to check later instead of filled my browser's favorites</description>
+	<link>https://www.w3schools.com/</link>
+	<lastBuildDate>Mon, 14 Feb 2022</lastBuildDate>
+	<pubDate>Mon, 14 Feb 2022</pubDate>
+ 
+	<item>
+		<title>CSS</title>
+		<description>CSS tutorial in w3School</description>
+		<link>https://www.w3schools.com/css/</link>
+		<guid>0001</guid>
+	  <pubDate>Mon, 14 Feb 2022</pubDate>
+	</item>
+	<item>
+		<title>JS</title>
+		<description>JavaScript tutorial in w3School</description>
+		<link>https://www.w3schools.com/js/</link>
+		<guid>0002</guid>
+	  <pubDate>Mon, 14 Feb 2022</pubDate>
+	</item>
+	<item>
+		<title>CSS</title>
+		<description>CSS tutorial in w3School</description>
+		<link>https://www.w3schools.com/css/</link>
+		<guid>0001</guid>
+	  <pubDate>Mon, 14 Feb 2022</pubDate>
+	</item>
+	<item>
+		<title>jQuery</title>
+		<description>jQuery tutorial in w3School</description>
+		<link>https://www.w3schools.com/jquery/</link>
+		<guid>0003</guid>
+	  <pubDate>Mon, 14 Feb 2022</pubDate>
+	</item>
+	<item>
+		<title>PHP</title>
+		<description>PHP tutorial in w3School</description>
+		<link>https://www.w3schools.com/php/</link>
+		<guid>0004</guid>
+	  <pubDate>Mon, 14 Feb 2022</pubDate>
+	</item>
+	<item>
+		<title>SQL</title>
+		<description>SQL tutorial in w3School</description>
+		<link>https://www.w3schools.com/sql/</link>
+		<guid>0005</guid>
+	  <pubDate>Mon, 14 Feb 2022</pubDate>
+	</item>
+</channel>
+</rss>
+

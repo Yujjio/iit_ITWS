@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+ 
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+	<title>Ranking websites</title>
+	<subtitle>I put some famous ranking websites for a various of entertainment here, which would be helpful for my term project</subtitle>
+	<link href="https://afsws.rpi.edu/AFS/home/32/wuk9/public_html/iit/" rel="self" />
+	<id>00000</id>
+	<updated>2022-2-14</updated>
+	<author>
+		<name>Kerui Wu</name>
+		<email>wuk9@rpi.edu</email>
+	</author>
+
+	<entry>
+		<title>MyAnimeList</title>
+		<link href="https://myanimelist.net/" />
+		<id>0001</id>
+		<updated>2022-2-14</updated>
+		<summary>Famous anime ranking website</summary>
+	</entry>
+	<entry>
+		<title>imdb</title>
+		<link href="https://www.imdb.com/" />
+		<id>0002</id>
+		<updated>2022-2-14</updated>
+		<summary>Famous movie ranking website</summary>
+	</entry>
+	<entry>
+		<title>Douban</title>
+		<link href="https://www.douban.com/" />
+		<id>0003</id>
+		<updated>2022-2-14</updated>
+		<summary>Famous comprehensive Chinese ranking website</summary>
+	</entry>
+	<entry>
+		<title>USNews</title>
+		<link href="https://www.usnews.com/best-colleges" />
+		<id>0004</id>
+		<updated>2022-2-14</updated>
+		<summary>Famous college ranking website</summary>
+	</entry>
+	<entry>
+		<title>RateYourMusic</title>
+		<link href="https://rateyourmusic.com/" />
+		<id>0005</id>
+		<updated>2022-2-14</updated>
+		<summary>Famous music ranking website</summary>
+	</entry>
+ 
+</feed>
+
+
+

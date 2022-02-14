@@ -1,0 +1,63 @@
+html {
+	margin: auto;
+}
+
+body {
+	background-image: url(../pic/wallpaper.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	margin: auto;
+}
+
+div {
+	width: 1024px;
+	margin: auto;
+}
+
+h1 {
+	font-size: 400%;
+	text-align: center;
+	margin-top: 50px;
+	font-family: Playball, cursive;
+	color: whitesmoke;
+	text-shadow: 5px 5px 5px black;
+	font-weight: 900;
+	margin-bottom: 0;
+}
+
+#quote {
+	font-size: 200%;
+	text-align: center;
+	margin-top: 5px;
+	font-family: 'Long Cang', cursive;
+	color: #86a2cf;
+	text-shadow: 5px 5px 5px black;
+	font-weight: 900;
+}
+
+.link_use:link{
+        font-family: Arial, Helvetica, sans-serif;
+        text-decoration: none;
+        color: white;
+}
+.link_use:visited{
+font-family: Arial, Helvetica, sans-serif;
+text-decoration: underline;
+color: white;
+}
+.link_use:hover{
+text-decoration: underline ;
+font-family: Georgia, serif;
+color: #8800ff;
+}
+
+#arrow {
+	position: absolute;
+	bottom: 3px;
+	margin-left: 463px;	
+	margin-top: 160px;
+	width: 100px;
+	height: auto;
+	
+}

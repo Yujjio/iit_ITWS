@@ -1,0 +1,312 @@
+#mainbody {
+	width: 1438px;
+	margin:  auto;
+}
+
+body {	
+	background-image: url(../pic/background.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	margin: auto;
+}
+
+#back {
+	width: 20%;
+	height: auto;
+	position: absolute;
+	right: 0;
+	bottom: 0;
+}
+
+h1 {
+	color: white;
+	text-align: center;
+	font-size: 50px;
+}
+h2 {
+	color: white;
+}
+p {
+	color: white;
+}
+
+li {
+	color: white;
+}
+
+#arrow {
+	width: 100px;
+	height: auto;
+	margin-top: 30px;
+	transform: rotate(90deg);
+}
+
+#header{
+    background-image: url(https://s2.loli.net/2022/01/04/eAdBIphmvkaHXg9.png);
+    background-size: 1920px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 171.97px;
+}
+
+#information {
+	width: 300px;
+	height: 1080px;
+	display: inline;
+	float: left;
+	margin-left: 20px;
+	margin-right: 60px;
+}
+
+.folder_first {
+	margin-left: 20px;
+}
+
+.lab_folder {
+	width: 143.79px;
+	height: 143.79px;
+	display: inline;
+	width: 10%;
+	height: auto;
+	object-fit: cover;
+	margin-left: 30px;
+	margin-right: 30px;
+}
+
+img:hover {
+	cursor: pointer;
+}
+
+a {
+	text-decoration: none;
+}
+
+.folder_text h3{
+	color: white;
+	display: inline;
+	margin-left: 53;
+	margin-right: 55;
+}
+.folder_text {
+	margin-bottom: 70px;
+}
+
+
+#instruction:link {
+	font-family: Arial, Helvetica, sans-serif;
+        text-decoration: none;
+        color: white;
+        margin-left: 74px;
+}
+
+#instruction:visited{
+	font-family: Arial, Helvetica, sans-serif;
+	text-decoration: none;
+	color: whitesmoke;
+	margin-left: 74px;
+}
+
+#instruction:hover{
+	text-decoration: underline;
+	text-decoration-color: blueviolet;
+	font-family: Georgia, serif;
+	color: #8800ff;
+	margin-left: 59px;
+	margin-right: 42px;
+}
+
+#resume:hover{
+	text-decoration: underline;
+	text-decoration-color: blueviolet;
+	font-family: Georgia, serif;
+	color: #8800ff;
+	margin-left: 59px;
+	margin-right: 45px;
+}
+
+#readme {
+	color: white;
+	display: inline;
+	margin-left: 79px;
+	
+}
+
+#readme:link {
+	font-family: Arial, Helvetica, sans-serif;
+        text-decoration: none;
+        color: white;
+        margin-left: 79px;
+}
+
+#readme:visited{
+	font-family: Arial, Helvetica, sans-serif;
+	text-decoration: none;
+	color: whitesmoke;
+	margin-left: 79px;
+}
+
+#readme:hover{
+	text-decoration: underline;
+	text-decoration-color: blueviolet;
+	font-family: Georgia, serif;
+	color: #8800ff;
+	margin-left: 79px;
+}
+
+#class {
+	color: white;
+	display: inline;
+	margin-left: 79px;
+	
+}
+
+#class:link {
+	font-family: Arial, Helvetica, sans-serif;
+        text-decoration: none;
+        color: white;
+        margin-left: 79px;
+}
+
+#class:visited{
+	font-family: Arial, Helvetica, sans-serif;
+	text-decoration: none;
+	color: whitesmoke;
+	margin-left: 79px;
+}
+
+#class:hover{
+	text-decoration: underline;
+	text-decoration-color: blueviolet;
+	font-family: Georgia, serif;
+	color: #8800ff;
+	margin-left: 79px;
+	margin-right: 53px;
+}
+
+#icon_use {
+	color: white;
+	display: inline;
+	margin-left: 107px;
+	
+}
+
+#icon_use:link {
+	font-family: Arial, Helvetica, sans-serif;
+        text-decoration: none;
+        color: white;
+        margin-left: 107px;
+}
+
+#icon_use:visited{
+	font-family: Arial, Helvetica, sans-serif;
+	text-decoration: none;
+	color: whitesmoke;
+	margin-left: 107px;
+}
+
+#icon_use:hover{
+	text-decoration: underline;
+	text-decoration-color: blueviolet;
+	font-family: Georgia, serif;
+	color: #8800ff;
+	margin-left: 107px;
+	margin-right: 53px;
+}
+
+#profile {
+	color: white;
+	display: inline;
+	margin-left: 97px;
+	
+}
+
+#profile:link {
+	font-family: Arial, Helvetica, sans-serif;
+        text-decoration: none;
+        color: white;
+        margin-left: 97px;
+}
+
+#profile:visited{
+	font-family: Arial, Helvetica, sans-serif;
+	text-decoration: none;
+	color: whitesmoke;
+	margin-left: 97px;
+}
+
+#profile:hover{
+	text-decoration: underline;
+	text-decoration-color: blueviolet;
+	font-family: Georgia, serif;
+	color: #8800ff;
+	margin-left: 97px;
+}
+
+.lab:link{
+        font-family: Arial, Helvetica, sans-serif;
+        text-decoration: none;
+        color: white;
+}
+
+.lab:visited{
+font-family: Arial, Helvetica, sans-serif;
+text-decoration: none;
+color: whitesmoke;
+}
+
+.lab:hover{
+text-decoration: underline;
+text-decoration-color: blueviolet;
+font-family: Georgia, serif;
+color: #8800ff;
+margin-right: 71px;
+}
+
+
+#lab01:hover{
+text-decoration: underline;
+text-decoration-color: blueviolet;
+font-family: Georgia, serif;
+color: #8800ff;
+margin-right: 75px;
+}
+
+
+#lab03:hover{
+text-decoration: underline;
+text-decoration-color: blueviolet;
+font-family: Georgia, serif;
+color: #8800ff;
+margin-right: 73px;
+}
+
+#lab04:hover{
+text-decoration: underline;
+text-decoration-color: blueviolet;
+font-family: Georgia, serif;
+color: #8800ff;
+margin-right: 72px;
+}
+
+#lab05:link{
+        font-family: Arial, Helvetica, sans-serif;
+        text-decoration: none;
+        color: white;
+}
+
+.link_use:link{
+        font-family: Arial, Helvetica, sans-serif;
+        text-decoration: underline;
+        color: white;
+}
+.link_use:visited{
+font-family: Arial, Helvetica, sans-serif;
+text-decoration: underline;
+color: white;
+}
+.link_use:hover{
+text-decoration: underline ;
+font-family: Georgia, serif;
+color: #8800ff;
+}
