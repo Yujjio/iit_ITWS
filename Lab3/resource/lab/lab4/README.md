@@ -1,0 +1,1 @@
+I put w3School tutorials in my RSS file and put some ranking websites, which may be used later for my term project in my Atom file
