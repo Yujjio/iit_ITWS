@@ -10,6 +10,10 @@ body {
 	margin: auto;
 }
 
+#span {
+	display: inline;
+}
+
 div {
 	width: 1024px;
 	margin: auto;
@@ -24,6 +28,61 @@ h1 {
 	text-shadow: 5px 5px 5px black;
 	font-weight: 900;
 	margin-bottom: 0;
+	color: white;
+}
+
+h3 {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+h4 {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+h5 {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+li {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#resource_list {
+	position: absolute;
+	left: -500px;
+	height: 550px;
+	overflow-y: auto;
+}
+#resource_part {
+	display: none;
+}
+#css {
+	display: none;
+}
+#js {
+	display: none;
+}
+#lab {
+	display: none;
+}
+#lab2 {
+	display: none;
+}
+#lab4 {
+	display: none;
+}
+#lab5 {
+	display: none;
+}
+#lab6 {
+	display: none;
+}
+#lab6_resources {
+	display: none;
+}
+#pic {
+	display: none;
 }
 
 #quote {
@@ -36,20 +95,32 @@ h1 {
 	font-weight: 900;
 }
 
+.link_use:active {
+	text-decoration: none;
+	color: black;
+}
 .link_use:link{
         font-family: Arial, Helvetica, sans-serif;
         text-decoration: none;
-        color: white;
+        color: black;
 }
 .link_use:visited{
-font-family: Arial, Helvetica, sans-serif;
-text-decoration: underline;
-color: white;
+	font-family: Arial, Helvetica, sans-serif;
+	text-decoration: none;
+	color: black;
 }
 .link_use:hover{
 text-decoration: underline ;
 font-family: Georgia, serif;
 color: #8800ff;
+}
+
+#menu {
+	display: inline;
+	float: left;
+	width: 100px;
+	height: 100px;
+	cursor: pointer;
 }
 
 #arrow {

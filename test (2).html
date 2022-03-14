@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+span {
+position:absolute;
+background-color:#abc;
+left:-50px;
+width:90px;
+height:90px;
+margin:5px;
+display: inline;
+}
+button {
+	display: block;
+}
+</style>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+<body>
+<button id="left">«</button>
+<span class="block"></span>
+<div>check check</div>
+<script>
+
+$("#left").click(function(){
+$(".block").animate({"left": "+=50px"}, "slow");
+});
+
+</script>
+
+</body>
+</html>
