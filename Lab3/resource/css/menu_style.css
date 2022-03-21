@@ -1,6 +1,12 @@
+@font-face {
+   font-family: myFirstFont;
+   src: url(sansation_light.woff);
+}
+
 #mainbody {
 	width: 1438px;
 	margin:  auto;
+	font-family: myFirstFont;
 }
 
 body {	
@@ -18,7 +24,6 @@ body {
 	right: 0;
 	bottom: 0;
 }
-
 h1 {
 	color: white;
 	text-align: center;
@@ -33,6 +38,10 @@ p {
 
 li {
 	color: white;
+}
+
+#status {
+	color: red;
 }
 
 #arrow {
