@@ -10,9 +10,16 @@
   <body>
     <div id="bodyBlock">
       <h1>Intro to ITWS - Lab 8</h1>
-      <h3>Your Name Here</h3>
+      <h3>Kerui Wu</h3>
+      <button onclick="window.location='../../projects.html'">back to projects</button>
+      <button onclick="window.location='../../../index.html'">back to index</button>
       <p class="part1">
-        Part 1: <a href="xampp-secure.gif">XAMPP Screenshot</a> (make this available)
+        Part 1: 
+        <ul>
+          <li><a href="screenshot.pdf">XAMPP Screenshot</a> (available)</li>
+          <li><a href="php_admin.png">PHP_admin</a></li>
+          <li><a href="XAMPP.pdf">XAMPP</a></li>
+        </ul>
       </p>
       <form id="xssForm" name="xssForm" action="#" method="post" onsubmit="return false">
         <fieldset>
@@ -24,7 +31,7 @@
 
             <label class="field">Comments:</label>
             <div class="value">
-              <textarea rows="4" cols="60" name="comments" id="comments" placeholder="After experimenting with the lab, copy your successful xss code into the body of this text area in the lab9.html file so that it displays when the page load"></textarea>
+              <textarea rows="4" cols="60" name="comments" id="comments" placeholder=""><script>window.location='http://www.rpi.edu'</script></textarea>
             </div>
 
             <input type="submit" value="submit" id="submitButton" name="submitButton"/>
