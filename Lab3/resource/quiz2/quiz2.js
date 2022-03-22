@@ -27,6 +27,7 @@ function validate(formObj) {
       let result = "submission received!";
       alert(result);
       $('#status').css('color', 'green');
+      window.location="../index.html";
       return true;
    }
 }
