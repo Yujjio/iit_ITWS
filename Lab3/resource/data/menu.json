@@ -1,0 +1,62 @@
+{
+	"title": "menu",
+	"description": "",
+	"items": [
+		{
+			"title": "lab00",
+			"link": "lab/goals and expectations.docx",
+			"image_over": "pic/docx.png",
+			"image_out": "pic/docx_close.png",
+			"alt": "goals and expectations"
+		},
+		{
+			"title": "lab01",
+			"link": "lab/Lab1.docx",
+			"image_over": "pic/docx.png",
+			"image_out": "pic/docx_close.png",
+			"alt": "Networking"
+		},
+		{
+			"title": "lab02",
+			"link": "menu_lab2.html",
+			"image_over": "pic/folder_visit.png",
+			"image_out": "pic/folder.png",
+			"alt": "HTML & CSS"
+		}, 
+		{
+			"title": "lab03", 
+			"link": "../index.html",
+			"image_over": "pic/folder_visit.png",
+			"image_out": "pic/folder.png",
+			"alt": "personal website"
+		},
+		{
+			"title": "lab04",
+			"link": "menu_lab4.html",
+			"image_over": "pic/folder_visit.png",
+			"image_out": "pic/folder.png",
+			"alt": "XML"
+		},
+		{
+			"title": "lab05",
+			"link": "lab/lab5/lab5.html",
+			"image_over": "pic/html.png", 
+			"image_out": "pic/html_close.png",
+			"alt": "javascript"
+		},
+		{
+			"title": "lab06",
+			"link": "lab/lab6/lab6.html",
+			"image_over": "pic/html.png", 
+			"image_out": "pic/html_close.png",
+			"alt": "Jquery"
+		},
+		{
+			"title": "lab08",
+			"link": "lab/lab8/lab8.html",
+			"image_over": "pic/html.png", 
+			"image_out": "pic/html_close.png",
+			"alt": "XAMPP"
+		}
+	]
+}
