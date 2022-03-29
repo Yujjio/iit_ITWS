@@ -1,1 +1,2 @@
-lab8 path: resource/lab/lab8
+Github: yujjio
+discord: Rui#0758
