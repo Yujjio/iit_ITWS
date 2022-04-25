@@ -16,4 +16,4 @@ INSERT INTO myProjects (title,link,image_over,image_out) VALUES
 (4,"menu_lab4.html", "pic/html.png", "pic/html_close.png"),
 (5,"lab/lab5/lab5.html", "pic/html.png", "pic/html_close.png"),
 (6,"lab/lab6/lab6.html", "pic/html.png", "pic/html_close.png"),
-(8,"lab/lab8/lab8.html", "pic/html.png", "pic/html_close.png");
+(7,"lab/lab8/lab8.html", "pic/html.png", "pic/html_close.png");
